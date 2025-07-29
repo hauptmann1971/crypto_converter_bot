@@ -1,0 +1,5 @@
+telebot~=0.0.5
+requests~=2.32.4
+coloredlogs~=15.0.1
+flask~=3.0.3
+mysql-connector-python~=9.0.0
